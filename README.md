@@ -1,10 +1,10 @@
-## Contacts
+#### Contacts
 
 - [Blog](https://dunaev.dev/)
 - [Donations](https://donation-form.github.io/)
 - [dun43v@gmail.com](mailto:dun43v@gmail.com)
 
-## Social
+#### Social
 
 - [Twitter](https://twitter.com/dun43v)
 - [Facebook](https://facebook.com/dun43v)
@@ -14,7 +14,7 @@
 - [Twitch](https://twitch.tv/dun43v)
 - [Vk](https://vk.com/dun43v)
 
-## GPG Fingerprint
+#### GPG Fingerprint
 
 ```
 ID: 54BBDD8BEFFF9921
