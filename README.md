@@ -1,19 +1,17 @@
-### Hi there 👋
-
-#### Contacts
+## Contacts
 
 - [Blog](https://dunaev.dev/)
 - [Donations](https://donation-form.github.io/)
 - [dun43v@gmail.com](mailto:dun43v@gmail.com)
 
-#### GPG Fingerprint
+## GPG Fingerprint
 
 ```
 ID: 54BBDD8BEFFF9921
 1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
 ```
 
-#### Social
+## Social
 
 - [Twitter](https://twitter.com/dun43v)
 - [Facebook](https://facebook.com/dun43v)
