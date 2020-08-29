@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**dun43v/dun43v** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Contacts
 
-Here are some ideas to get you started:
+- [Blog](https://dunaev.dev/)
+- [Donations](https://donation-form.github.io/)
+- [dun43v@gmail.com](mailto:dun43v@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### GPG Fingerprint
+
+```
+ID: 54BBDD8BEFFF9921
+1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
+```
+
+#### Social
+
+- [Twitter](https://twitter.com/dun43v)
+- [Facebook](https://facebook.com/dun43v)
+- [Instagram](https://instagram.com/dun43v)
+- [LinkedIn](https://linkedin.com/in/dun43v)
+- [Telegram](https://t.me/dun43v)
+- [Twitch](https://twitch.tv/dun43v)
+- [Vk](https://vk.com/dun43v)
