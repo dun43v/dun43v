@@ -3,7 +3,7 @@
 - [Blog](https://dunaev.dev/)
 - [Donations](https://donation-form.github.io/)
 - [dun43v@gmail.com](mailto:dun43v@gmail.com)
-- [Repository for contacts](/hello/issues)
+- [Repository for contacts](hello/issues)
 
 #### Social
 
