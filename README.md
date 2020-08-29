@@ -21,4 +21,4 @@ ID: 54BBDD8BEFFF9921
 1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
 ```
 
-[![dun43v github stats](https://github-readme-stats.vercel.app/api?username=dun43v)]()
+[![dun43v github stats](https://github-readme-stats.vercel.app/api?username=dun43v)](/)
