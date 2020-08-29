@@ -4,13 +4,6 @@
 - [Donations](https://donation-form.github.io/)
 - [dun43v@gmail.com](mailto:dun43v@gmail.com)
 
-## GPG Fingerprint
-
-```
-ID: 54BBDD8BEFFF9921
-1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
-```
-
 ## Social
 
 - [Twitter](https://twitter.com/dun43v)
@@ -20,3 +13,10 @@ ID: 54BBDD8BEFFF9921
 - [Telegram](https://t.me/dun43v)
 - [Twitch](https://twitch.tv/dun43v)
 - [Vk](https://vk.com/dun43v)
+
+## GPG Fingerprint
+
+```
+ID: 54BBDD8BEFFF9921
+1CCC 9B1F 67E3 C5B8 8E5D  0A5C 54BB DD8B EFFF 9921
+```
